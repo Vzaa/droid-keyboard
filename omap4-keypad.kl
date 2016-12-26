@@ -23,7 +23,7 @@ key 228   POUND             WAKE
 key 227   STAR
 key 231   CALL              WAKE
 key 61    CALL              WAKE
-key 232   SHIFT_RIGHT       WAKE
+key 232   CTRL_LEFT         WAKE
 key 105   DPAD_LEFT         WAKE
 key 106   DPAD_RIGHT        WAKE
 key 102   HOME              WAKE

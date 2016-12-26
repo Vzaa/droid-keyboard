@@ -133,7 +133,8 @@ key P {
     label:                              'P'
     base:                               'p'
     shift, capslock:                    'P'
-    ctrl, alt, meta:                    none
+    alt:                                '|'
+    ctrl, meta:                         none
 }
 
 key Q {
@@ -210,7 +211,7 @@ key 0 {
     label, number:                      '0'
     base:                               '0'
     shift:                              ')'
-    alt, meta:                          '}'
+    alt, meta:                          ']'
 }
 
 key 1 {
@@ -266,14 +267,14 @@ key 8 {
     label, number:                      '8'
     base:                               '8'
     shift:                              '*'
-    alt, meta:                          '['
+    alt, meta:                          '}'
 }
 
 key 9 {
     label, number:                      '9'
     base:                               '9'
     shift:                              '('
-    alt, meta:                          ']'
+    alt, meta:                          '['
 }
 
 key SPACE {
